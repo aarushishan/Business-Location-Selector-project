@@ -1,0 +1,60 @@
+{
+  "metrics": {
+    "Linear Regression": {
+      "train_r2": 0.8259620557466845,
+      "test_r2": 0.7216178732184084,
+      "train_mae": 13.974440213498454,
+      "test_mae": 15.880286091356544,
+      "train_rmse": 17.543616020036996,
+      "test_rmse": 19.90508391995947,
+      "cv_r2_mean": 0.8176081031342942,
+      "cv_r2_std": 0.025715008026627285
+    },
+    "Decision Tree": {
+      "train_r2": 0.8666053055208098,
+      "test_r2": 0.6493270813167483,
+      "train_mae": 12.182460643142022,
+      "test_mae": 17.709217319826063,
+      "train_rmse": 15.359123032440472,
+      "test_rmse": 22.34058045041917,
+      "cv_r2_mean": 0.6838916022908358,
+      "cv_r2_std": 0.024278740837823633
+    },
+    "Random Forest": {
+      "train_r2": 0.9465914649767337,
+      "test_r2": 0.7069009124621745,
+      "train_mae": 7.7957595819271726,
+      "test_mae": 16.130755262149297,
+      "train_rmse": 9.718572385909138,
+      "test_rmse": 20.424459473736597,
+      "cv_r2_mean": 0.7880849536829527,
+      "cv_r2_std": 0.01600780762739708
+    }
+  },
+  "feature_importances": {
+    "daily_footfall": 0.8091841111937909,
+    "population": 0.03082090049968063,
+    "mobility_index": 0.026618463464299944,
+    "pop_per_competitor": 0.025990435655416606,
+    "accessibility_score": 0.024101650738878152,
+    "footfall_per_rent": 0.01964651592012219,
+    "public_transport_score": 0.013730442471156413,
+    "monthly_rent": 0.011701824654087195,
+    "parking_score": 0.010202016220013944,
+    "competitor_count": 0.007249833722033438,
+    "income_level_num": 0.003950896635018005,
+    "business_type_Grocery Store": 0.0027432879380718624,
+    "nearby_facilities_Mixed": 0.0023046527501561337,
+    "business_type_Clothing Shop": 0.0019111138735706376,
+    "nearby_facilities_Offices": 0.001778341464661455,
+    "business_type_Cafe": 0.0017163740908035141,
+    "nearby_facilities_College": 0.001510041342578227,
+    "nearby_facilities_Market": 0.0014328796786434062,
+    "nearby_facilities_Residential": 0.001225743396363957,
+    "business_type_Pharmacy": 0.001211857367323687,
+    "nearby_facilities_Hospital": 0.0009686169233297766
+  },
+  "total_train_samples": 800,
+  "total_test_samples": 200,
+  "feature_count": 21
+}

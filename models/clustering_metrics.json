@@ -1,0 +1,70 @@
+{
+  "k_range": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "inertias": [
+    3735.8361067211654,
+    3252.6761278948707,
+    2871.3774956262378,
+    2579.16320287907,
+    2335.190316407581,
+    2152.3300648356685
+  ],
+  "silhouette_scores": [
+    0.23714762995175345,
+    0.19560739066543958,
+    0.2012457159092665,
+    0.20168179086901739,
+    0.19667072929510654,
+    0.19532643911600234
+  ],
+  "selected_k": 4,
+  "selected_silhouette": 0.2012457159092665,
+  "cluster_profiles": {
+    "0": {
+      "name": "Affordable High-Opportunity Hub",
+      "count": 94,
+      "pct": 9.4,
+      "mean_rent": 67879.8,
+      "mean_footfall": 1105.3,
+      "mean_competitors": 5.7,
+      "mean_accessibility": 5.3,
+      "mean_demand": 98.8
+    },
+    "1": {
+      "name": "Balanced Commercial Core",
+      "count": 333,
+      "pct": 33.3,
+      "mean_rent": 31383.8,
+      "mean_footfall": 1803.4,
+      "mean_competitors": 6.0,
+      "mean_accessibility": 5.2,
+      "mean_demand": 140.0
+    },
+    "2": {
+      "name": "Prime High-Cost Corridor",
+      "count": 274,
+      "pct": 27.4,
+      "mean_rent": 29483.2,
+      "mean_footfall": 637.8,
+      "mean_competitors": 5.4,
+      "mean_accessibility": 3.0,
+      "mean_demand": 70.6
+    },
+    "3": {
+      "name": "Suburban / Developing Market",
+      "count": 299,
+      "pct": 29.9,
+      "mean_rent": 28855.2,
+      "mean_footfall": 765.1,
+      "mean_competitors": 6.4,
+      "mean_accessibility": 8.2,
+      "mean_demand": 88.1
+    }
+  }
+}

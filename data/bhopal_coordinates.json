@@ -1,0 +1,20 @@
+{
+  "New Market": { "lat": 23.2332, "lon": 77.4013, "zone": "Central Commercial Hub", "description": "High footfall retail street, dense shopper traffic, colleges and offices nearby" },
+  "MP Nagar": { "lat": 23.2324, "lon": 77.4338, "zone": "Corporate & Financial Core", "description": "Major corporate, coaching, and financial district with intense daytime workforce" },
+  "Arera Colony": { "lat": 23.2120, "lon": 77.4277, "zone": "Affluent Residential & Lifestyle", "description": "High purchasing power residential catchment with premium boutiques and specialty dining" },
+  "Hoshangabad Road": { "lat": 23.1950, "lon": 77.4470, "zone": "Commercial Highway Corridor", "description": "Wide retail strip with malls, automobile showrooms, and fast-growing townships" },
+  "Kolar Road": { "lat": 23.1780, "lon": 77.4190, "zone": "Dense Residential Growth Strip", "description": "Rapidly urbanizing residential corridor with strong demand for groceries, pharmacies, and family retail" },
+  "Lalghati": { "lat": 23.2840, "lon": 77.3780, "zone": "Northern Transit Gateway", "description": "Major junction connecting airport, Old Bhopal, and highway traffic" },
+  "Indrapuri": { "lat": 23.2500, "lon": 77.4660, "zone": "Student & Institutional District", "description": "Dense student population, engineering colleges, hostellers, and youth market" },
+  "BHEL Township": { "lat": 23.2610, "lon": 77.4770, "zone": "Public Sector Industrial Township", "description": "Planned township with stable employee households and consistent convenience retail demand" },
+  "Bawadia Kalan": { "lat": 23.1930, "lon": 77.4360, "zone": "Modern Premium Enclave", "description": "Gated high-rise apartments and upscale residential complexes with high disposable income" },
+  "Saket Nagar": { "lat": 23.2200, "lon": 77.4520, "zone": "Medical & Academic Hub", "description": "AIIMS Bhopal catchment with heavy footfall from medical staff, patients, students, and residents" },
+  "Gulmohar Colony": { "lat": 23.2040, "lon": 77.4300, "zone": "Affluent Green Residential", "description": "Peaceful high-income locality with high-end cafes, specialty clinics, and organic markets" },
+  "Karond": { "lat": 23.3030, "lon": 77.3980, "zone": "Commercial Mandi & Transit Hub", "description": "High turnover wholesale trade, warehouse proximity, and expanding residential neighborhoods" },
+  "TT Nagar": { "lat": 23.2380, "lon": 77.4040, "zone": "Administrative & Civic Core", "description": "Government offices, sports stadiums, and historic retail avenues" },
+  "Berasia Road": { "lat": 23.2750, "lon": 77.4050, "zone": "Wholesale & High-Density Commercial", "description": "Traditional trade hub with heavy commercial transactions and intense pedestrian flow" },
+  "Govindpura": { "lat": 23.2530, "lon": 77.4480, "zone": "Industrial Workforce Area", "description": "Light manufacturing, MSME clusters, and day-commuter workforce" },
+  "Misrod": { "lat": 23.1670, "lon": 77.4650, "zone": "Southern Emerging Corridor", "description": "Automobile hubs, tech campuses, and suburban expansion corridor" },
+  "Shahpura": { "lat": 23.2010, "lon": 77.4210, "zone": "Lakefront Dining & Recreation", "description": "Scenic lake promenade, popular for evening dining, youth gatherings, and lifestyle cafes" },
+  "Habibganj": { "lat": 23.2167, "lon": 77.4410, "zone": "High-Speed Rail Transit Hub", "description": "Modern world-class Rani Kamlapati station with heavy interstate transit travelers and business hotels" }
+}
